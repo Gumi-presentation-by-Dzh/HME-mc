@@ -1,0 +1,1 @@
+cmd_/home/chendi/HME/Multcore_version/HME/core_NVM.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chendi/HME/Multcore_version/HME/core_NVM.ko /home/chendi/HME/Multcore_version/HME/core_NVM.o /home/chendi/HME/Multcore_version/HME/core_NVM.mod.o
